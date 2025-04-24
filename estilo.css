@@ -3,6 +3,11 @@ body{
 	font: 16px Arial, Helvetica, sans-serif;
 }
 
+textarea {
+  height: 300px; /* Ajuste este valor conforme necessário */
+  resize: none; /* Impede que o usuário redimensione a textarea */
+}
+
 #principal {
 	width: 900px;
 }
